@@ -38,4 +38,4 @@ alt + shift - 0 : yabai -m window --space 10
 # iTerm
 alt - t : osascript -e 'tell application "iTerm" to create window with default profile command ""'
 # Firefox
-alt - i : osascript -e 'tell application "Firefox" activate'
+alt - i : open -na /Applications/Firefox.app
